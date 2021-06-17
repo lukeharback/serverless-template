@@ -1,0 +1,10 @@
+{
+  "name": "serverless-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "serverless-plugin-typescript": "^1.1.9",
+    "typescript": "^4.3.3"
+  }
+}
