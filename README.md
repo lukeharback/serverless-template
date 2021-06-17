@@ -1,4 +1,4 @@
-# Barrow: Simple Analytics
+# Serverless Template
 
 ## Local Dev
 
